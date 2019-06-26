@@ -1,7 +1,7 @@
-package com.mvc.service;
+package com.piyush.service;
 
-import com.mvc.model.Login;
-import com.mvc.model.TokenModel;
+import com.piyush.model.Login;
+import com.piyush.model.TokenModel;
 import com.typesafe.config.Config;
 import com.typesafe.config.ConfigFactory;
 import com.typesafe.config.ConfigParseOptions;

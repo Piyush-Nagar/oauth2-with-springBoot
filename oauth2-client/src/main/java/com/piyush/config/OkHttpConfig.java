@@ -1,4 +1,4 @@
-package com.mvc.config;
+package com.piyush.config;
 
 import java.security.KeyManagementException;
 import java.security.NoSuchAlgorithmException;

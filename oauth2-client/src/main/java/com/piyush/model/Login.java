@@ -1,4 +1,4 @@
-package com.mvc.model;
+package com.piyush.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
