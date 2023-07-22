@@ -12,7 +12,7 @@
     <artifactId>oauth2-client</artifactId>
 
     <properties>
-        <retrofit.version>2.1.0</retrofit.version>
+        <retrofit.version>2.5.0</retrofit.version>
         <start-class>com.piyush.Application</start-class>
     </properties>
 
